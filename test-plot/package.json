@@ -1,0 +1,12 @@
+{
+  "name": "test-plot",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    "default": "./src/index.js"
+  },
+  "sideEffects": [
+    "./src/plot.js"
+  ]
+}

@@ -7,6 +7,6 @@
     "default": "./src/index.js"
   },
   "sideEffects": [
-    "./src/plot.js"
+    "./src/index.js"
   ]
 }
